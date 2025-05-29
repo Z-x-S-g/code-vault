@@ -1,5 +1,10 @@
 #!/bin/bash
-
+# ============================================================================
+# Archivo      : url-activa.sh
+# GitHub       : https://github.com/Z-x-S-g
+# Fecha        : 27/May/2025
+# Descripción  : Verifica mediante ping y curl si una url esta activ 
+# ============================================================================
 
 if [[ -z "$1" ]]; then
   echo -e "Uso:\n url-activa.sh [URL]"
