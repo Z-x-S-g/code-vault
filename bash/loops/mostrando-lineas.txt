@@ -1,0 +1,4 @@
+Hola\ mundo
+C:\Usuarios\Daniel
+Texto con \t tabulación
+W
