@@ -11,3 +11,7 @@ ls -lA | awk '$1 !~ /^d/ { print "Los permisos del archivo", $NF, "Son", $1 }'
 
 #Detectar líneas duplicadas en un archivo de texto
 cat [archivo] | sort | uniq --all-repeated=separate
+
+#Buscar archivos por fecha de modificación (últimas 24 horas).
+find / -mtime 1 -type f 2>/dev/null -exec ls -l {} \;
+
