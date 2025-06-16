@@ -1,0 +1,53 @@
+Nombre: Daniel Pazos
+Teléfono: 667-123-4567
+Correo: danielp@example.com
+Fecha: 05/06/2025
+Código postal: 81000
+
+Nombre: Virginia López
+Teléfono: 643-999-8888
+Correo: flody1990@correo.mx
+Fecha: 21/12/2024
+Código postal: 82010
+
+Nombre: Juan Perez
+Teléfono: 669-000-1111
+Correo: juan.perez@gmail.com
+Fecha: 01/01/2023
+Código postal: 8300
+
+
+Usuario: daniel_pazos
+Correo: daniel.pazos21@gmail.com
+Teléfono: 667-321-8899
+IP: 192.168.1.10
+Fecha de acceso: 05/06/2025
+Status: activo
+
+Usuario: flodylopez
+Correo: flody1990@correo.mx
+Teléfono: 644-888-7777
+IP: 10.0.0.5
+Fecha de acceso: 21/12/2024
+Status: inactivo
+
+Usuario: carlos_mtz
+Correo: carlos.mtz@empresa.com
+Teléfono: 669-100-2222
+IP: 172.16.0.1
+Fecha de acceso: 01/01/2023
+Status: activo
+
+Usuario: admin_test
+Correo: root@localhost
+Teléfono: 000-000-0000
+IP: 127.0.0.1
+Fecha de acceso: 29/02/2020
+Status: suspendido
+
+Usuario: usuario123
+Correo: user123@site.org
+Teléfono: 621-555-4444
+IP: 8.8.8.8
+Fecha de acceso: 30/11/2023
+Status: activo0
